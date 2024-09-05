@@ -1,0 +1,10 @@
+javac App.java --> fordítás
+
+3 kiirató utasítás:
+
+println()
+print()
+printf()
+
+System.out.printf("Kerület: %.2f", perimeter);     //%f -> formátumkód(valós szám), %d(egész szám), %s(string)
+						   //%.2f -> 2 tizedesjegyig írja ki az eredményt
